@@ -1,2 +1,2 @@
 # ResumeAndCV
-Respository of my current resume and CV files
+Repository of my current resume and CV files
